@@ -65,7 +65,14 @@
   {
     "id": 1,
     "user_id": 2,
+    "title": "Test album 1", 
     "preview": "https://via.placeholder.com/150/197d29"
+  },
+  {
+    "id": 2,
+    "user_id": 6,
+    "title": "Test album 2", 
+    "preview": "https://via.placeholder.com/150/197dd9"
   }
   ],
   "photos": [
