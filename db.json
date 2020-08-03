@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+     "id": 1, 
+      "name": "Leanne Graham", 
+      "email": "Sincere@april.biz",
+      "avatar": "https://via.placeholder.com/150/771796"
+    },
+    {
+    "id": 2,
+    "name": "Ervin Howell",
+    "email": "Shanna@melissa.tv",
+    "avatar": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "email": "Nathan@yesenia.net",
+    "avatar": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "email": "Julianne.OConner@kory.org",
+    "avatar": "https://via.placeholder.com/150/f66b97"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "email": "Lucio_Hettinger@annie.ca",
+    "avatar": "https://via.placeholder.com/150/56a8c2"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "email": "Karley_Dach@jasper.info",
+    "avatar": "https://via.placeholder.com/150/b0f7cc"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "email": "Telly.Hoeger@billy.biz",
+    "avatar": "https://via.placeholder.com/150/54176f"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "email": "Sherwood@rosamond.me",
+    "avatar": "https://via.placeholder.com/150/51aa97"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "email": "Chaim_McDermott@dana.io",
+    "avatar": "https://via.placeholder.com/150/66b7d2"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "email": "Rey.Padberg@karina.biz",
+    "avatar": "https://via.placeholder.com/150/197d29"
+  }
+  ],
+  "albums": [
+  {
+    "id": 1
+    "user_id": 2,
+    "preview": "https://via.placeholder.com/150/197d29"
+  }
+  ],
+  "photos": [
+  {
+    "album_id": 1,
+    "img": "https://via.placeholder.com/150/197d29",
+    "title": "First image in first album"
+  }
+  ]
+}
